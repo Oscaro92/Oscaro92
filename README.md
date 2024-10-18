@@ -10,7 +10,7 @@ CTO at Le Studio Pigalle 🤖 Automation & AI Agency
 # 💻 Tech Stack:
 
 ## 👨‍💻 Language
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white) 
 
 ## 🏡 Hosting
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazonwebservices&logoColor=white) ![Ionos](https://img.shields.io/badge/Ionos-003D8F.svg?style=flat&logo=ionos&logoColor=white) ![OVH](https://img.shields.io/badge/OVH-123F6D.svg?style=flat&logo=ovh&logoColor=white) ![ngrok](https://img.shields.io/badge/ngrok-1F1E37.svg?style=flat&logo=ngrok&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=flat&logo=debian&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94.svg?style=flat&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
@@ -25,3 +25,6 @@ CTO at Le Studio Pigalle 🤖 Automation & AI Agency
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscaro92&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Oscaro92&icon=0&color=0)](https://visitcount.itsvg.in)
