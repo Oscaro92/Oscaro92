@@ -5,7 +5,8 @@ CTO at Le Studio Pigalle 🤖 Automation & AI Agency
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-moisset) 
 
 ## 🗨️ Contact
-[![Call](https://img.shields.io/badge/Call-%231a73e8.svg)](https://calendar.app.google/enBK2me9TjgtZBcJA) 
+[![Call](https://img.shields.io/badge/Call-%231a73e8.svg)](https://calendar.app.google/enBK2me9TjgtZBcJA)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg)](mailto:oscar@pigallestud.io)
 
 # 💻 Tech Stack:
 
